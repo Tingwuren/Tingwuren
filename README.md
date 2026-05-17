@@ -3,7 +3,6 @@
 北京邮电大学计算机学院研一｜Java Web 后端方向｜Python 大模型应用开发
 
 - 🧰 技术栈：Java / Spring Boot / MySQL / Redis / RESTful API / jQuery + Ajax
-- 🔬 研究方向：强化学习（RL）、大模型应用开发（LLM Apps）
 - 📫 联系我：<ruobinli@bupt.edu.cn>
 
 ## 🏆 校园经历
