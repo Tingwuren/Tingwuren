@@ -5,11 +5,6 @@
 - 🧰 技术栈：Java / Spring Boot / MySQL / Redis / RESTful API / jQuery + Ajax
 - 📫 联系我：<ruobinli@bupt.edu.cn>
 
-## 🏆 校园经历
-
-- 校级一等奖学金（2024.11）
-- 三好学生（2024.11）
-- 校级三等奖学金（2023.11）
 
 ## 📊 GitHub 数据
 
