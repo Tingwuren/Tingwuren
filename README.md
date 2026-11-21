@@ -1,8 +1,7 @@
 # 你好，我是 Tingwuren（李若彬）
 
-北京邮电大学计算机学院研一｜Java Web 后端方向｜Python 大模型应用开发
+北京邮电大学计算机学院研二｜Java Web 后端方向｜Python 大模型应用开发
 
-- 🧰 技术栈：Java / Spring Boot / MySQL / Redis / RESTful API / jQuery + Ajax
 - 📫 联系我：<ruobinli@bupt.edu.cn>
 
 
